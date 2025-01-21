@@ -1,1 +1,3 @@
-# dfdfdfd
+DISTRIBUTING COMPUTING USING THE INTERNET
+One main problem in collecting data is that there is so much of it to analyse. Analysing large amounts of data requires a lot of computer power and this power may not to be available because of the cost. 
+In many cases this problem can be solved by using distributed computing using the internet. Here, instead of using a huge expensive supercomputer to do the job, it could be done using a few less powerful computers connected together using the internet but with each working on the same problem. In many cases computers just sit around not doing much for most of the time so why not us their processing power?
